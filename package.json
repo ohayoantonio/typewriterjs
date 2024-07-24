@@ -47,12 +47,12 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "regenerator-runtime": "^0.13.11",
-    "webpack": "^5.85.0",
     "webpack-bundle-analyzer": "^4.9.0",
     "webpack-cli": "^4.10.0",
     "webpack-merge": "^5.9.0"
   },
   "dependencies": {
+    "webpack": "^5.85.0",
     "prop-types": "^15.8.1",
     "raf": "^3.4.1"
   }
