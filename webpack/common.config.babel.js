@@ -15,7 +15,7 @@ const config = {
     libraryExport: 'default',
     globalObject: 'typeof self !== \'undefined\' ? self : this',
     umdNamedDefine: true,
-    publicPath: '',
+    publicPath: 'dist',
   },
 
   externals: {
